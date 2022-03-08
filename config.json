@@ -11,5 +11,10 @@
     "name": "Track Endpoint",
     "type": "string",
     "defaultValue": "api.perfalytics.com/track"
+  }, {
+    "key": "event type",
+    "name": "Type of event",
+    "type": "string",
+    "defaultValue": "track"
   }]
 }
