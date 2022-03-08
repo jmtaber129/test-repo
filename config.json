@@ -1,5 +1,5 @@
 {
-  "supportsTrack": "false",
+  "supportsTrack": true,
   "configFields": [{
     "key": "apiKey",
     "name": "API Key",
@@ -7,7 +7,6 @@
     "required": true,
     "type": "string"
   }, {
-    "key": "endpoint",
     "name": "Track Endpoint",
     "type": "string",
     "defaultValue": "api.perfalytics.com/track"
