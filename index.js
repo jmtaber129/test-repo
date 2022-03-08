@@ -1,6 +1,7 @@
 function onTrack(event, settings) {
   console.log(event);
   console.log(settings);
+  console.log("Using API key", settings.apiKey);
 }
 
 function onRequest(request) {
