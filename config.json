@@ -1,3 +1,4 @@
 {
-  "myCoolConfig": "bar"
+  "supportsTrack": true,
+  "supportsCohorts": "true"
 }
