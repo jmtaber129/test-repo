@@ -1,5 +1,5 @@
 {
-  "supportsTrack": true,
+  "supportsTrack": "false",
   "configFields": [{
     "key": "apiKey",
     "name": "API Key",
