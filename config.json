@@ -7,6 +7,7 @@
     "required": true,
     "type": "string"
   }, {
+    "key": "endpoint",
     "name": "Track Endpoint",
     "type": "string",
     "defaultValue": "api.perfalytics.com/track"
