@@ -1,4 +1,8 @@
 {
   "supportsTrack": true,
-  "supportsCohorts": "true"
+  "configFields": [{
+    "key": "apiKey",
+    "name": "API Key",
+    "type": "foobar"
+  }]
 }
