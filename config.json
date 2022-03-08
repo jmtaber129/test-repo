@@ -2,7 +2,7 @@
   "supportsTrack": true,
   "configFields": [{
     "key": "apiKey",
-    "name": "API Key",
+    "name": "API Key renamed",
     "sensitive": true,
     "required": true,
     "type": "string"
