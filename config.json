@@ -3,6 +3,13 @@
   "configFields": [{
     "key": "apiKey",
     "name": "API Key",
-    "type": "foobar"
+    "sensitive": true,
+    "required": true,
+    "type": "string"
+  }, {
+    "key": "endpoint",
+    "name": "Track Endpoint",
+    "type": "string",
+    "defaultValue": "api.perfalytics.com/track"
   }]
 }
