@@ -1,8 +1,8 @@
 {
   "supportsTrack": true,
   "configFields": [{
-    "key": "apiKey",
-    "name": "API Key",
+    "key": "apiKey updated",
+    "name": "API Key ",
     "sensitive": true,
     "required": true,
     "type": "string"
