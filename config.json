@@ -2,7 +2,7 @@
   "supportsTrack": true,
   "supportsCohorts": true,
   "configFields": [{
-    "key": "apiKey updated",
+    "key": "apiKey",
     "name": "API Key ",
     "sensitive": true,
     "required": true,
