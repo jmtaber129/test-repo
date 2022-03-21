@@ -1,5 +1,5 @@
 {
-  "supportsTrack": true,
+  "supportsTrack": false,
   "supportsCohorts": true,
   "configFields": [{
     "key": "apiKey updated",
